@@ -1,0 +1,3 @@
+interface VendingMachineState {
+    void handleRequest();
+}
